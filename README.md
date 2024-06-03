@@ -1,4 +1,4 @@
-# BG Colour Changer
+# CHANGER (BG Colour Changer)
 
 BG Colour Changer is a Chrome extension that allows users to change the background color of webpages.
 
